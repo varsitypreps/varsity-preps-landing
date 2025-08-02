@@ -1,1 +1,1 @@
-console.log('Varsity Preps landing page loaded.');
+console.log("Varsity Preps landing page loaded with full design.");
